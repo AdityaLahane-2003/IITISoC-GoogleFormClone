@@ -1,0 +1,18 @@
+.body{
+	background-color: #ede7f6;
+	font-family: Roboto,Sans-serif;
+}
+.forms{
+	height: 1100px;
+	width: 600px;
+	margin: auto;
+}
+.title-div{
+	height: 150px;
+	width: 600px;
+	background-color: #FDFEFE;
+	margin: 15px;
+	border-radius: 8px;
+	border-top: 8px solid #6703c4;
+	padding: 25px;
+}

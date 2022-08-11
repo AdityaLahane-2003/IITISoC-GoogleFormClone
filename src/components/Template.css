@@ -1,0 +1,62 @@
+.template_section{
+    background-color: #f4f4f9;
+    padding-bottom: 40px;
+    padding-top: 7px;
+}
+.template_top{
+    margin-left: 180px;
+    margin-right: 180px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.template_right{
+    display: flex;
+}
+.gallary_button{
+    display: flex;
+    /* flex-direction: row; */
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    background: transparent;
+} 
+.template_top{
+margin-left: 160px;
+margin-right: 160px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+.template_body{
+    padding-left: 160px;
+}
+.card{
+    /* margin-left: 160px; */
+    margin-right: 15px;
+    display: inline-block;
+
+} 
+.card_image{
+    /* display: inline-block; */
+    box-sizing: border-box;
+    height: 120px;
+    width: 140px;
+    cursor: pointer;
+    border: 0.2px solid #FFFDF7 ;
+    border-radius: 2px;
+    
+}
+
+.card_image:hover{
+    border: 1px solid #6E2594;
+} 
+    .card_title{
+        font-size: 14px;
+        margin-top: 2px;
+        color: #202124;
+        font-weight: 500;
+        /* display: inline-block; */
+    }
