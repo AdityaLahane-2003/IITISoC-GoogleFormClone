@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IITISoC-GoogleFormClone/static/css/main.b7331889.css",
+    "main.js": "/IITISoC-GoogleFormClone/static/js/main.be6ddca3.js",
+    "static/media/ws.png": "/IITISoC-GoogleFormClone/static/media/ws.b7e5256291019106bf1b.png",
+    "static/media/ci.png": "/IITISoC-GoogleFormClone/static/media/ci.09c741d1bb09dcec814a.png",
+    "index.html": "/IITISoC-GoogleFormClone/index.html",
+    "main.b7331889.css.map": "/IITISoC-GoogleFormClone/static/css/main.b7331889.css.map",
+    "main.be6ddca3.js.map": "/IITISoC-GoogleFormClone/static/js/main.be6ddca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7331889.css",
+    "static/js/main.be6ddca3.js"
+  ]
+}
