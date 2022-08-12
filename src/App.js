@@ -14,7 +14,7 @@ import Save from "./components/Save";
 function App() {
   return (
     <div className="app">
-      <Router>
+      <Router basename="/IITISoC-GoogleFormClone">
         <Switch>
           <Route path="/form/:id">
             <Formheader/> 
